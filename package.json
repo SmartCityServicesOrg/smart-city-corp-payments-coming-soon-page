@@ -1,0 +1,15 @@
+{
+  "name": "scs-corp-pay-coming-soon",
+  "version": "1.0.0",
+  "description": "",
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "middleware.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "@vercel/edge": "^1.3.1"
+  }
+}
